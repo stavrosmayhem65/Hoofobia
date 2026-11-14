@@ -199,4 +199,4 @@ This repository serves as the official landing page for Hoofobia. The software i
 **Get the most recent version of Hoofobia today!** | Updated July 2025
 
 ---
-**Last updated:** 2026-11-13 21:49:58 UTC
+**Last updated:** 2026-11-14 02:01:51 UTC
